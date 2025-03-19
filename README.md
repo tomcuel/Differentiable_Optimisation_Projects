@@ -2,11 +2,12 @@
 > This repository contains two projects exploring numerical optimization techniques applied to different problems. The first project focuses on Newton’s method for solving equilibrium conditions, while the second project addresses image deblurring using proximal gradient methods and convex optimization.
 
 #### Tables of contents
-* [Path tree](#path-tree)
-* [Direct links to folders](#direct-links-to-folders)  
-* [Virtual Environnment and Librairies](#virtual-environnment-and-librairies)  
-* [Project 1 : Implementation of Newton's Method](#project-1-:-implementation-of-newton's-method)
-* [Project 2](#project-2-:-image-deblurring)
+* [Path Tree](#path-tree)
+* [Direct Links to Folders](#direct-links-to-folders)  
+* [Virtual Environment and Libraries](#virtual-environment-and-libraries)  
+* [Running the code](#running-the-code) 
+* [Project 1: Implementation of Newton's Method](#project-1-implementation-of-newtons-method)
+* [Project 2: Image Deblurring](#project-2-image-deblurring)
 
 ## Path tree
 ```
