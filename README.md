@@ -61,6 +61,10 @@ import pylops
 from scipy.sparse import csr_matrix
 ```
 
+## Running the code 
+* You must open your VS-Code window on each TP, otherwise there will be mistakes with repositeries and pictures creations
+* Uncomment the function calls to execute what you want (I did it because it took too much time otherwise to compute)
+
 
 ## Project 1 : Implementation of Newton's Method
 
