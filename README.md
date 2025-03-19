@@ -97,6 +97,9 @@ from scipy.sparse import csr_matrix
 
 ### Some project pictures 
 
+#### Scipy/minimize and inequality constraints
+<img src="./Results/Scipy_Optimization/N20_constraints.pdf" alt="scipy_method_inequality" width="350" height="225"/>
+
 
 ## Project 2 : Image Deblurring 
 
