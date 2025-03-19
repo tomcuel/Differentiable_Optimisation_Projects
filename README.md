@@ -95,11 +95,8 @@ from scipy.sparse import csr_matrix
 * Backtracking significantly improves convergence and stability.
 * scipy.optimize provides comparable results but is more flexible in handling inequality constraints.
 
-### Some project pictures 
-
-#### Scipy/minimize and inequality constraints
-<img src="./TP1/Results/Scipy_Optimization/N20_constraints.pdf" alt="scipy_method_inequality" width="350" height="225"/>
-
+### More details and key pictures 
+[See the PDF report](TP1/Cuel_Project1_Final.pdf)
 
 ## Project 2 : Image Deblurring 
 
@@ -134,5 +131,5 @@ from scipy.sparse import csr_matrix
 * cvxpy struggles with large-scale images due to high computational complexity.
 * Downsampling the image reduces computational cost but degrades the quality of the restored image.
 
-### Some project pictures 
-
+### More details and key pictures 
+[See the PDF report](TP2/CUEL_Project2_Final.pdf)
